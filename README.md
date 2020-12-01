@@ -8,7 +8,6 @@ My Online Portfolio
 - [Application Summary](#application-summary)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Mockup](#mockup)
 - [Website Features and Highlights](#website-features-and-highlights)
 - [Live Project Site](#live-project-site)
 - [Installation and Git Repository](#installation-and-git-repository)
@@ -47,10 +46,6 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
-
-## Mockup
-
-![portfolio demo](./assets/images/Lernantino-Web-Developer-Example.png)
 
 ## Website Features and Highlights
 
