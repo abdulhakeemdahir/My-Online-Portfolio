@@ -83,7 +83,7 @@ The follwing are all of the feautres and highlights of my portfolio:
 
 https://abdulhakeemdahir.github.io/My-Online-Portfolio/
 
-![portfolio](./assets/images/hw8.png)
+![portfolio](./assets/img/hw8.png)
 
 ## Installation and Git Repository
 
